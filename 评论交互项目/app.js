@@ -14,7 +14,7 @@ var comments = [
     {name:'李四',message:'此评论不可见',dataTime:'2020/05/01'},
     {name:'王五',message:'此评论不可见',dataTime:'2020/05/01'},
     {name:'王五',message:'这个东西太棒了',dataTime:'2020/05/01'},
-    {name:'王五',message:'这个东西太棒了',dataTime:'2020/05/01'}
+    {name:'赵六',message:'这个东西太棒了',dataTime:'2020/05/01'}
 ]
 
 //创建服务
