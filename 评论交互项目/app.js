@@ -12,6 +12,9 @@ var template = require('art-template')
 var comments = [
     {name:'张三',message:'此评论不可见',dataTime:'2020/05/01'},
     {name:'李四',message:'此评论不可见',dataTime:'2020/05/01'},
+    {name:'王五',message:'此评论不可见',dataTime:'2020/05/01'},
+    {name:'王五',message:'东西不错',dataTime:'2020/05/01'},
+    {name:'王五',message:'东西不错',dataTime:'2020/05/01'},
 ]
 
 //创建服务
